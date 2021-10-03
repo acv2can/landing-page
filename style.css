@@ -2,12 +2,21 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px;
+    background-color: #1F2937;
 }
 ul {
     list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 15px;
 }
 a {
     text-decoration: none;
-    
+    color: #E5E7EB;
+    font-size: 18px;
+}
+.logo {
+    color:#F9FAF8;
+    font-size: 24px;
 }
