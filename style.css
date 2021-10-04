@@ -39,7 +39,7 @@ a {
 }
 .title {
     font-size: 48px;
-    font-weight: 800;
+    font-weight: 799;
     color:#F9FAF8;
 }
 .left {
@@ -66,5 +66,5 @@ button {
     align-items: center;
     background-color: #6d747d;
     width: 500px;
-    height: 250px;
+    height: 240px;
 }
